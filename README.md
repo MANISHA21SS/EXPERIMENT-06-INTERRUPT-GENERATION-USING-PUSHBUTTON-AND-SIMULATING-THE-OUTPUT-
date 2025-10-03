@@ -319,15 +319,19 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
 ```
 
 
 ## Output screen shots of proteus  :
-<img width="1034" height="723" alt="Screenshot 2025-09-30 143913" src="https://github.com/user-attachments/assets/6b1e318d-a409-42c0-97a1-c65524c36c6b" />
+<img width="867" height="781" alt="Screenshot 2025-10-03 103442" src="https://github.com/user-attachments/assets/26d94fff-d6f7-4f32-b1db-c30ce0c0f0cb" />
+<img width="1034" height="723" alt="Screenshot 2025-09-30 143913" src="https://github.com/user-attachments/assets/0d8049f1-f8ef-4035-a922-0a32ba0a0f41" />
+
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="824" height="739" alt="Screenshot 2025-09-30 144003" src="https://github.com/user-attachments/assets/27112d62-61a6-4e8e-ad6c-16409972b768" />
+<img width="824" height="739" alt="Screenshot 2025-09-30 144003" src="https://github.com/user-attachments/assets/43d383fd-91cd-4201-9289-655a47cfd51c" />
+
 
  
 ## Result :
